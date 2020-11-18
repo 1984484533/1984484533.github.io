@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>1 | Gridea</title>
+<meta name="referrer" content="never" />
+<link rel="shortcut icon" href="https://1984484533.github.io/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://1984484533.github.io/styles/main.css">
+    <meta name="description" content="https://book.douban.com/subject/33408247/
+" />
+    
+    <script src="https://cdn.jsdelivr.net/npm/leancloud-storage/dist/av-min.js"></script>
+    
+    
+    
+    <link rel="prefetch" href="https://1984484533.github.io/post/hello-gridea/">
+    
+  </head>
+  <body>
+    <!-- start: #wrapper -->
+    <header id="header" style="">
+        <div class="header-container">
+  <h1 class="site-title"><a href="https://1984484533.github.io">Gridea</a></h1>
+  <h2 class="site-description">温故而知新</h2>
+  <nav class="main-navigation">
+    <ul id="" class="">
+      
+      <li class="" ><a href="/" class="menu">首页</a></li>
+      
+      <li class="" ><a href="/archives" class="menu">归档</a></li>
+      
+      <li class="" ><a href="/tags" class="menu">标签</a></li>
+      
+      <li class="" ><a href="/post/about" class="menu">关于</a></li>
+      
+      <li class="" ><a href="/books" class="menu">阅读</a></li>
+      
+      <li class="" ><a href="/moives" class="menu">电影</a></li>
+      
+      <li class="" ><a href="/friends" class="menu">书签</a></li>
+      
+    </ul>
+  </nav>
+  <div class="my_socials">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+    </header>
+    <div class="wrapper single">
+        <div class="content">
+            <div id="posts" class="posts">
+            <!-- start: .articles -->
+            
+            <article class="post hentry format-daily format-">
+                <header>
+                    <time class="date">
+                        <i class="fa">
+                            <span class="datetime">2020-11-18</span>
+                        </i>
+                    </time>
+                </header>
+                <h1 class="entry-title">
+                    1
+                </h1>
+                <div class="post-content">
+                    <div class="post-hentry">
+                        <p><a href="https://book.douban.com/subject/33408247/">https://book.douban.com/subject/33408247/</a></p>
+
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </article>
+            
+
+                <div class="pager">
+                    
+                        <span class="prev">已是最新一篇</span>
+                    
+                    
+                         <a class="next" href="https://1984484533.github.io/post/hello-gridea/">Hello Gridea</a>
+                    
+                    <div class="clear"></div>
+                </div>
+
+            
+              <div id="comments"></div>
+              <div class="clear"></div>
+            
+            
+            </div>
+
+        </div>
+
+            <footer id="footer" class="">
+        <p class="published border-effect">
+          ©2020 共 3 篇文章
+          <br/>
+          Theme <a href="https://immmmm.com/gridea-theme-motify/" target="_blank">「Motify」</a> Powered by <a href="https://gridea.dev/" target="_blank">「Gridea」</a>
+        </p>
+    </footer>
+
+    <a id="back_to_top" href="#" class="back_to_top"><span>△</span></a>
+
+
+<script src="https://cdn.jsdelivr.net/npm/prismjs@1.19.0/prism.min.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/1984484533/1984484533.github.io/media/js/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/1984484533/1984484533.github.io/media/js/lately.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/1984484533/1984484533.github.io/media/js/waterfall.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/1984484533/1984484533.github.io/media/js/slimbox2.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/1984484533/1984484533.github.io/media/js/functions.js"></script>
+
+
+<script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+    </div>
+
+
+<script src="https://cdn.staticfile.org/valine/1.3.10/Valine.Pure.min.js"></script>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js"></script>
+<script>
+    jQuery(document).ready(function($){
+            new Valine({
+                el: '#comments',
+                recordIP:true,
+                appId: '2PoOwy6zIG8zA2f5Mf933k8O-gzGzoHsz' ,
+                appKey: 'bpzfssRHgwpwDGUU7XKeODLO',
+                pageSize: 30,
+                placeholder:'既然来了，那就留个痕迹吧~'
+            })
+            jinrishici.load(function(result) {
+                var jrsc_plac =  result.data.content + "\n「" + result.data.origin.title + "」" + result.data.origin.dynasty + " · " + result.data.origin.author
+                    document.getElementById("veditor").setAttribute("placeholder",jrsc_plac);
+            });
+            $('.vemoji-btn').text('😀');
+            $("#comments").on('click', 'span.vat',function(){
+                        $(this).parent('div.vmeta').next("div.vcontent").after($("div.vwrap"));
+                        $('textarea#veditor').focus();
+            })
+            if(window.location.hash){
+                    var checkExist = setInterval(function() {
+                        if ($(window.location.hash).length) {
+                            $('html, body').animate({scrollTop: $(window.location.hash).offset().top-90}, 1000);
+                            clearInterval(checkExist);
+                        }
+                    }, 100);
+            }
+    });
+</script>
+
+
+  </body>
+</html>
