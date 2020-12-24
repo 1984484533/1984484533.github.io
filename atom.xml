@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1984484533.github.io</id>
     <title>ZhuYu&apos;s blog</title>
-    <updated>2020-12-22T14:28:12.297Z</updated>
+    <updated>2020-12-24T08:52:45.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1984484533.github.io"/>
     <link rel="self" href="https://1984484533.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://1984484533.github.io/images/avatar.png</logo>
     <icon>https://1984484533.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ZhuYu&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[财富的来源只有两个：创造！掠夺！]]></title>
+        <id>https://1984484533.github.io/n8oi9WJnh/</id>
+        <link href="https://1984484533.github.io/n8oi9WJnh/">
+        </link>
+        <updated>2020-12-24T08:50:11.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开炉，炼丹！！！]]></title>
         <id>https://1984484533.github.io/pK9CM3aoJ/</id>
