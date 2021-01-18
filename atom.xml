@@ -2,14 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1984484533.github.io</id>
     <title>ZhuYu&apos;s blog</title>
-    <updated>2020-12-24T08:52:45.799Z</updated>
+    <updated>2021-01-18T07:41:38.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1984484533.github.io"/>
     <link rel="self" href="https://1984484533.github.io/atom.xml"/>
     <subtitle>言念君子 温其如玉</subtitle>
     <logo>https://1984484533.github.io/images/avatar.png</logo>
     <icon>https://1984484533.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, ZhuYu&apos;s blog</rights>
+    <rights>All rights reserved 2021, ZhuYu&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[你好，再见！]]></title>
+        <id>https://1984484533.github.io/uY_g-n7oA/</id>
+        <link href="https://1984484533.github.io/uY_g-n7oA/">
+        </link>
+        <updated>2021-01-18T07:37:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>由于静态站的一些局限性，打算撸一撸动态博客</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>由于静态站的一些局限性，打算撸一撸动态博客</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ ]]></title>
+        <id>https://1984484533.github.io/HHGi5RMHR/</id>
+        <link href="https://1984484533.github.io/HHGi5RMHR/">
+        </link>
+        <updated>2020-12-27T06:28:37.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>这世上多数人还没有到谈及天赋的地步，所谓成败，不过是内因和外因的社会综合
+</code></pre>
+<p>所谓考研人，不过是一些还活在高考里的人</p>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>这世上多数人还没有到谈及天赋的地步，所谓成败，不过是内因和外因的社会综合
+</code></pre>
+<p>所谓考研人，不过是一些还活在高考里的人</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[财富的来源只有两个：创造！掠夺！]]></title>
         <id>https://1984484533.github.io/n8oi9WJnh/</id>
@@ -112,23 +138,6 @@ YES！   YES！   YES！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>容器=网盘？FREE? SPEED?<br>
 YES！   YES！   YES！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于本站]]></title>
-        <id>https://1984484533.github.io/about/</id>
-        <link href="https://1984484533.github.io/about/">
-        </link>
-        <updated>2020-11-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<pre><code>那时候我们有梦，关于爱情，关于梦想
-如今我们深夜饮酒
-杯子碰到一起，都是梦破碎的声音
-</code></pre>
-]]></summary>
-        <content type="html"><![CDATA[<pre><code>那时候我们有梦，关于爱情，关于梦想
-如今我们深夜饮酒
-杯子碰到一起，都是梦破碎的声音
-</code></pre>
 ]]></content>
     </entry>
 </feed>
